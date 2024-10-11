@@ -32,7 +32,7 @@
 
 - Responsive design with three sizes: small, wide, large.
 - User input for location.
-- Fetches weather data using the Weather API.
+- Fetches weather data using the Weather API https://www.weatherapi.com/docs/.
 - Reflects the browser theme (light/dark).
 
 ## Tech Stack
